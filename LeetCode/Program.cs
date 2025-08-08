@@ -9,7 +9,8 @@ namespace LeetCodeSeries
         {
             Console.WriteLine("=== LeetCode Series ===");
             Console.WriteLine("Select a problem to run:");
-            Console.WriteLine("1719. Number of Ways to Reconstruct a Tree (Not Implemented)");
+            Console.WriteLine("182. Duplicate Emails");
+            Console.WriteLine("1719. Number of Ways to Reconstruct a Tree");
             Console.WriteLine("0. Exit");
 
             Console.Write("\nChoice: ");
@@ -19,6 +20,9 @@ namespace LeetCodeSeries
 
             switch (choice)
             {
+                case "182":
+                    new _182_DuplicateEmails().Run();
+                    break;
                 case "1719":
                     new _1719_NumberOfWaysToReconstructATree().Run();
                     break;
