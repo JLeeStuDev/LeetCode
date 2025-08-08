@@ -17,5 +17,5 @@ using System.Runtime.InteropServices;
 // Major Version, Minor Version, Build Number, Revision
 // Example: [assembly: AssemblyVersion("1.0.0.0")]
 // You can also use "*" for auto-build/revision numbers.
-[assembly: AssemblyVersion("1.0.0")]
-[assembly: AssemblyFileVersion("1.0.0")]
+[assembly: AssemblyVersion("1.1.0")]
+[assembly: AssemblyFileVersion("1.1.0-1719-alpha")]
