@@ -11,6 +11,7 @@ namespace LeetCodeSeries
             Console.WriteLine("Select a problem to run:");
             Console.WriteLine("182. Duplicate Emails");
             Console.WriteLine("1719. Number of Ways to Reconstruct a Tree");
+            Console.WriteLine("2221. Find Triangular Sum of an Array");
             Console.WriteLine("0. Exit");
 
             Console.Write("\nChoice: ");
@@ -25,6 +26,9 @@ namespace LeetCodeSeries
                     break;
                 case "1719":
                     new _1719_NumberOfWaysToReconstructATree().Run();
+                    break;
+                case "2221":
+                    _2221_FindTriangularSumOfAnArray.Run();
                     break;
                 case "0":
                     Console.WriteLine("Goodbye!");
