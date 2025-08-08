@@ -18,4 +18,4 @@ using System.Runtime.InteropServices;
 // Example: [assembly: AssemblyVersion("1.0.0.0")]
 // You can also use "*" for auto-build/revision numbers.
 [assembly: AssemblyVersion("1.2.2")]
-[assembly: AssemblyFileVersion("1.2.2-182_DuplicateEmails")]
+[assembly: AssemblyFileVersion("1.2.2")]
