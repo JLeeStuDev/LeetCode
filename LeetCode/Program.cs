@@ -21,7 +21,7 @@ namespace LeetCodeSeries
             switch (choice)
             {
                 case "182":
-                    new _182_DuplicateEmails().Run();
+                    _182_DuplicateEmails.Run();
                     break;
                 case "1719":
                     new _1719_NumberOfWaysToReconstructATree().Run();

@@ -1,4 +1,8 @@
-﻿namespace LeetCode.Problems._182
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace LeetCode.Problems
 {
     public class EmailEntry
     {
